@@ -23,10 +23,10 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       //select any of these
-      //home:DisneyCartoons(),
+      home:DisneyCartoons(),
         //home:MickeyMouse()
       //home: TigerCartoon(),
-      home:TomCartoon()
+      //home:TomCartoon(),
     );
   }
 }

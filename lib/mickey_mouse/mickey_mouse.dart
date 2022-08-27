@@ -67,8 +67,7 @@ class _MickeyMouseState extends State<MickeyMouse> {
         decoration: BoxDecoration(
             image: DecorationImage(
                 image: AssetImage(
-                  'assets/back_ground.jpeg',
-
+                  'assets/background_image/2.jpg',
                 ),
                 fit: BoxFit.cover)),
         child: Stack(alignment: Alignment.center, children: [

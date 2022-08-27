@@ -67,7 +67,8 @@ class _TomCartoonState extends State<TomCartoon> {
         decoration: BoxDecoration(
             image: DecorationImage(
                 image: AssetImage(
-                  'assets/back_ground.jpeg',
+                  'assets/background_image/4.jpg',
+
 
                 ),
                 fit: BoxFit.cover)),

@@ -67,7 +67,7 @@ class _DisneyCartoonsState extends State<DisneyCartoons> {
         decoration: BoxDecoration(
             image: DecorationImage(
                 image: AssetImage(
-                  'assets/back_ground.jpeg',
+                  'assets/background_image/1.jpeg',
 
                 ),
                 fit: BoxFit.cover)),
